@@ -1,4 +1,4 @@
-package Introducao;
+package Aulas.Introducao;
 
 public class Aula03Operadores {
     public static void main(String[] args) {

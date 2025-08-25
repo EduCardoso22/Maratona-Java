@@ -1,4 +1,4 @@
-package Introducao;
+package Aulas.Introducao;
 public class Aula06EstruturaDeRepeticao03 {
     public static void main(String[] args) {
         double valorTotal = 30000;

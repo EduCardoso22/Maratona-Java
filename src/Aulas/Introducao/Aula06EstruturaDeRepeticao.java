@@ -1,4 +1,4 @@
-package Introducao;
+package Aulas.Introducao;
 
 public class Aula06EstruturaDeRepeticao {
     public static void main(String[] args) {

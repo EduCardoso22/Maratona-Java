@@ -1,4 +1,4 @@
-package Introducao.Arrays;
+package Aulas.Arrays;
 
 public class Arrays02 {
     public static void main(String[] args) {

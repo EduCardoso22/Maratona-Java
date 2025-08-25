@@ -1,4 +1,4 @@
-package Introducao;
+package Aulas.Introducao;
 
 import java.util.Scanner;
 
